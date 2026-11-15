@@ -1,0 +1,9 @@
+# Personal settings: holds your Sleeper username, ESPN league and ESPN sign-in. Never commit this.
+fantasy_gm_config.json
+# Your saved lineup recommendations
+fantasy_gm_tracker.json
+# Downloaded data and pasted notes
+.fantasy_gm_cache/
+__pycache__/
+*.pyc
+.DS_Store
